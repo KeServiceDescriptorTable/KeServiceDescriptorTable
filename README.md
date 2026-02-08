@@ -1,31 +1,31 @@
+<h2 align="left">@KeServiceDescriptorTable</h2>
+
+###
+
+<br clear="both">
+
+<img align="left" height="150" src="https://avatars.githubusercontent.com/u/260148736"  />
+
+###
+
 <div align="left">
-  <img src="https://avatars.githubusercontent.com/u/260148736?v=4" 
-       width="200" 
-       style="border-radius: 50%; display: block; margin-bottom: 20px;" 
-       alt="Profile Picture" />
-
-  <br />
-
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="C++" />
-    <img src="https://via.placeholder.com/40x1/00000000.png" width="40" height="1" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" alt="C" />
-    <img src="https://via.placeholder.com/40x1/00000000.png" width="40" height="1" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="55" alt="Windows" />
-  </div>
-
-  <br />
-
-  <h2 align="left">Kernel & Low-Level Software Engineer</h2>
-  <p align="left">
-    <strong>Private Individual</strong> • Saint Petersburg, Russia<br><br>
-    <strong>Age:</strong> 15<br>
-    <strong>Focus:</strong> Rootkits • Anticheats • Kernel development • Reverse engineering
-  </p>
-
-  <hr align="left" width="300">
-
-  <h3 align="left">Core Skills & Stack</h3>
-  <p align="left">
-    <strong>Languages:</strong> C++, C, x64 Assembly<br>
-    <strong>Environments:</strong> Windows Kernel • Ring - 0 / Ring - 3 Internals
-  </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">Private Individual<br>Age -> 15<br>Experiences -> Rootkits • Anticheats • Ring 0/3 development • Reverse engineering</h3>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KeServiceDescriptorTable.KeServiceDescriptorTable&left_color=black&right_color=black&left_text=profile%20views%20-%3E"  />
+</div>
+
+###
