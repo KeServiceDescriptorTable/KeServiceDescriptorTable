@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="left" height="150" src="https://avatars.githubusercontent.com/u/260148736"  />
 
 ###
@@ -17,8 +15,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">Private Individual<br>Age -> 15<br>Experiences -> Rootkits • Anticheats • Ring 0/3 development • Reverse engineering</h3>
 
