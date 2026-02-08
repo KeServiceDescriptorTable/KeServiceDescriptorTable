@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://avatars.githubusercontent.com/u/260148736?v=4" width="220" alt="Profile Picture" style="border-radius:50%; margin: 30px 0; box-shadow: 0 6px 20px rgba(0,0,0,0.5);" />
   
   <br><br>
