@@ -1,18 +1,2 @@
-<br clear="both">
 <h2 align="left">@KeServiceDescriptorTable</h2>
-###
-<br clear="both">
 <img align="left" height="150" src="https://avatars.githubusercontent.com/u/260148736" />
-###
-<br clear="both">
-<div style="clear: both; margin-top: 20px; margin-bottom: 16px; display: flex; align-items: center; gap: 16px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="27" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="27" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="27" alt="Windows" />
-</div>
-###
-<br clear="both">
-<h3 align="left">Private Individual<br>Age → 15<br>Experiences → Rootkits • Anticheats • Ring 0/3 development • Reverse engineering</h3>
-###
-<br clear="both">
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KeServiceDescriptorTable.KeServiceDescriptorTable&left_color=black&right_color=black&left_text=profile%20views%20-%3E" />
