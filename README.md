@@ -7,8 +7,3 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="27" alt="windows8 logo"  />
 </div>
-
-<br> </br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeServiceDescriptorTable&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KeServiceDescriptorTable&theme=dark&show_icons=true&hide_border=true&layout=compact)
